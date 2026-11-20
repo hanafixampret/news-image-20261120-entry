@@ -6,7 +6,11 @@
 
 A program that sums up 20 November 2026's world news in one image.
 
-`draw_news.py` draws a 1024×1024 newspaper front page — 20 stories: the Shenzhen peace declaration, Cyclone Akvan, the Riyadh tower strike and more — as `entry.png` with PIL, no network. `main.ts` copies it to the output directory.
+`draw_news.py` draws a 1024×1024 newspaper front page — 36 stories: the
+Cyclone Akvan landfall, the Kyiv missile barrage, COP31's deadlocked final
+day and 33 more, with the day's big numbers, a region count, a world map
+and a date check that leaves out Thursday's news — as `entry.png` with
+PIL, no network. `main.ts` copies it to the output directory.
 
 ## Run it
 
